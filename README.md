@@ -1,4 +1,5 @@
 # Baked Mesh Map
+      Generated informations from imported map models.
       Result may be inaccurate since it's limited by the tools that import the map models.
 ## 1. **Ambient Occlusion**
       Ambient Shadow.
