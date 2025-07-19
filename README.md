@@ -1,17 +1,20 @@
 # Baked Mesh Map
+      Result may be inaccurate since it's limited by the tools that import the map models.
 ## 1. **Ambient Occlusion**
-      Ambient Shadow
+      Ambient Shadow.
 ## 2. **Curvature**
       Information about the convexity and concavity of a mesh.
 ## 3. **Color IDs**
       Used for masking.
-   ### **Landscape ID**
+   ### a. **Landscape ID**
       Include Land, Rock and Water Body.
-   ### **Roads ID**
-      Include Land, Rock and Roads
-   ![maps_ID](https://github.com/user-attachments/assets/5ed71928-3a1e-4db0-90d1-31604687b3f7)
+   ### b. **Roads ID**
+      Include Land, Rock and Roads.
+      
+![maps_ID](https://github.com/user-attachments/assets/b01916e2-bb77-4979-a424-92dcc8e63f94)
+
 ## 4. **Height Map**
       Baked Height map generated from of Land, Rock, Water meshes/model.
-      It's not normalized (matching height values for all map), but on top left there's 100 values sample, each represent 10m with total of 990m from the baking plane.
+      It's not normalized (not matching height values for all map), but on top left there's 100 values sample, each represent 10m increments with total of 990m from the baking plane.
       The baking plane itself is 400m below World Origin (0,0,0).
     
