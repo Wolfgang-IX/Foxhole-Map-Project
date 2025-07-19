@@ -1,6 +1,7 @@
 # Baked Mesh Map
       Generated informations from imported map models.
       Result may be inaccurate since it's limited by the tools that import the map models.
+      Resolution is 2048x2048px.
 ## 1. **Ambient Occlusion**
       Ambient Shadow.
 ## 2. **Curvature**
