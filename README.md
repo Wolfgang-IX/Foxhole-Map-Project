@@ -21,4 +21,4 @@
       The baking plane itself is 400m below World Origin (0,0,0).
 <img width="711" height="534" alt="Height_Map" src="https://github.com/user-attachments/assets/249da1d3-5ccc-4256-97f2-62f16c9f2a0f" />
 
-# Baked Mesh Map
+## 5. **Normal Map (OpenGL)**
