@@ -1,5 +1,5 @@
 # How to Download
-In case i didn't upload the resource in **Release** section, you'll need to have Git LFS installed and clone this repo.
+In case I didn't upload the resource in **[Releases](https://github.com/Wolfgang-IX/Foxhole-Map-Project/releases)** section, you'll need to have Git LFS installed and clone this repo.
 
 `git clone https://github.com/Wolfgang-IX/Foxhole-Map-Project.git`
 
