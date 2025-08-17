@@ -38,3 +38,7 @@
 <img width="711" height="534" alt="Height_Map" src="https://github.com/user-attachments/assets/249da1d3-5ccc-4256-97f2-62f16c9f2a0f" />
 
 ## 5. **Normal Map (OpenGL)**
+
+
+![Resources](https://github.com/user-attachments/assets/1defec23-1df5-48d9-917d-7f4073c06227)
+
