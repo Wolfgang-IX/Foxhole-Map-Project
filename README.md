@@ -12,7 +12,8 @@
 
 
 # Baked Mesh Map
-![Mesh Maps](https://github.com/user-attachments/assets/d072c19a-35b0-4212-a898-3a7893b71086)
+![Mesh Maps](https://github.com/user-attachments/assets/f7776080-a9a7-40cc-9dd1-448065fd3b4a)
+
 
       Generated informations from imported map models.
       Result may be inaccurate since it's limited by the tools that import the map models.
