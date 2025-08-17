@@ -1,4 +1,19 @@
+# Processed Map
+![Processed Maps](https://github.com/user-attachments/assets/0124dca0-a901-42c5-831f-e37c4ebf924d)
+
+## 1. **Map**
+      Map with features (road tiers)
+## 2. **Base Map**
+      Map without features.
+## 3. **Landscape ID**
+      same ID as baked mesh, but this takes account of bridges and original map that baked mesh map can't provide.
+## 4. **Roads**
+      Roads layer.
+
+
 # Baked Mesh Map
+![Mesh Maps](https://github.com/user-attachments/assets/d072c19a-35b0-4212-a898-3a7893b71086)
+
       Generated informations from imported map models.
       Result may be inaccurate since it's limited by the tools that import the map models.
       Resolution is 2048x2048px.
