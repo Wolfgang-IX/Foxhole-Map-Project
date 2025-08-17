@@ -39,6 +39,3 @@
 
 ## 5. **Normal Map (OpenGL)**
 
-
-![Resources](https://github.com/user-attachments/assets/1defec23-1df5-48d9-917d-7f4073c06227)
-
