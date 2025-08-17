@@ -1,9 +1,9 @@
 # How to Download
-In case I didn't upload the resource in **[Releases](https://github.com/Wolfgang-IX/Foxhole-Map-Project/releases)** section, you'll need to have Git LFS installed and clone this repo.
+In case I didn't upload the resource in **[Releases](https://github.com/Wolfgang-IX/Foxhole-Map-Project/releases)** section, you'll need to have [Git LFS](https://git-lfs.com) installed and clone this repo.
 
 `git clone https://github.com/Wolfgang-IX/Foxhole-Map-Project.git`
 
-or use **GitHub Desktop**
+or use **[GitHub Desktop](https://desktop.github.com/download)**
 
 # Processed Map
 ![Processed Maps](https://github.com/user-attachments/assets/0124dca0-a901-42c5-831f-e37c4ebf924d)
