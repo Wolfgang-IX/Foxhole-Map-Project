@@ -3,6 +3,7 @@ In case I didn't upload the resource in **[Releases](https://github.com/Wolfgang
 
 or use **[GitHub Desktop](https://desktop.github.com/download)**
 
+You can download the mod on Nexus Mods [WG.IX Map](https://www.nexusmods.com/foxhole/mods/135)
 # Processed Map
 ![ProcessedMap](https://github.com/user-attachments/assets/8a1a6472-d68c-44d2-938e-579e61652284)
 
