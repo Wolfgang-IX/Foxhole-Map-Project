@@ -52,3 +52,8 @@ You can download the mod on Nexus Mods [WG.IX Map](https://www.nexusmods.com/fox
 
 ## 5. **Normal Map (OpenGL)**
 
+
+Credits:
+**Tsekho**, for Normalized Height map, Contour Lines and support for this project.
+**Rustard**, for the Rocks and "Bulwark and Vault" layer used as mask.
+**Kov**, for the help and his _FoxholeMapLayersAssembler_ tool.
